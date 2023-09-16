@@ -1,0 +1,15 @@
+/home/jonathanperis/Dev/CSharp/projetinho/obj/Debug/net6.0/projetinho.csproj.AssemblyReference.cache
+/home/jonathanperis/Dev/CSharp/projetinho/obj/Debug/net6.0/projetinho.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathanperis/Dev/CSharp/projetinho/obj/Debug/net6.0/projetinho.AssemblyInfoInputs.cache
+/home/jonathanperis/Dev/CSharp/projetinho/obj/Debug/net6.0/projetinho.AssemblyInfo.cs
+/home/jonathanperis/Dev/CSharp/projetinho/obj/Debug/net6.0/projetinho.csproj.CoreCompileInputs.cache
+/home/jonathanperis/Dev/CSharp/projetinho/bin/Debug/net6.0/projetinho
+/home/jonathanperis/Dev/CSharp/projetinho/bin/Debug/net6.0/projetinho.deps.json
+/home/jonathanperis/Dev/CSharp/projetinho/bin/Debug/net6.0/projetinho.runtimeconfig.json
+/home/jonathanperis/Dev/CSharp/projetinho/bin/Debug/net6.0/projetinho.dll
+/home/jonathanperis/Dev/CSharp/projetinho/bin/Debug/net6.0/ref/projetinho.dll
+/home/jonathanperis/Dev/CSharp/projetinho/bin/Debug/net6.0/projetinho.pdb
+/home/jonathanperis/Dev/CSharp/projetinho/obj/Debug/net6.0/projetinho.dll
+/home/jonathanperis/Dev/CSharp/projetinho/obj/Debug/net6.0/ref/projetinho.dll
+/home/jonathanperis/Dev/CSharp/projetinho/obj/Debug/net6.0/projetinho.pdb
+/home/jonathanperis/Dev/CSharp/projetinho/obj/Debug/net6.0/projetinho.genruntimeconfig.cache
