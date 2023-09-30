@@ -15,6 +15,8 @@ Caso esteja instalado, siga para o próximo tópico **"Como rodar pelo prompt"**
 - Instale a extensão oficial da Microsoft: **C#**;
 - Clone o repositório ([Como clonar um repositório](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository)).
 
+obs: no Windowns funciona da mesma maneira, com a diferença de utilizar mais interface.
+
 ## Como rodar pelo prompt
 ```
 dotnet build
