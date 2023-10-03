@@ -1,20 +1,17 @@
-using System;
+namespace projetinho;
 
-namespace projetinho
+public class Mamifero : Animal // herança
 {
-    public class Mamifero : Animal
+
+    public override Animal ObterInformacoes() // Método
     {
+        var mamifero = new Mamifero(); // instância
+        mamifero.Nome = "Elefante";
+        mamifero.Tipo = "Mamifero";
+        mamifero.MediaPeso = "10000kg";
+        mamifero.Tamanho = "8 metros";
 
-        public override Animal ObterInformacoes()
-        {
-            var mamifero = new Mamifero();
-            mamifero.Nome = "Elefante";
-            mamifero.Tipo = "Mamifero";
-            mamifero.MediaPeso = "10000kg";
-            mamifero.Tamanho = "8 metros";
-
-            return mamifero;
-        }
-
+        return mamifero;
     }
+
 }

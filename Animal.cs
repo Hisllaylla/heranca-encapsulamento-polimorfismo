@@ -1,15 +1,13 @@
-using System;
 
-namespace projetinho
+namespace projetinho;
+
+public abstract class Animal
 {
-    public abstract class Animal
-    {
-        // atributos
-        public string Nome { get; set; }
-        public string Tipo { get; set; }
-        public string Tamanho { get; set; }
-        public string MediaPeso { get; set; }
-
-        public abstract Animal ObterInformacoes();
-    }
+        // propriedades
+    public string Nome { get; set; } // encapsulamento da propriedade
+    public string Tipo { get; set; } // encapsulamento da propriedade
+    public string Tamanho { get; set; } // encapsulamento da propriedade
+    public string MediaPeso { get; set; } // encapsulamento da propriedade
+    public abstract Animal ObterInformacoes(); // método
 }
+

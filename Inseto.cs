@@ -1,18 +1,15 @@
-using System;
+namespace projetinho;
 
-namespace projetinho
+public class Inseto : Animal // herança
 {
-    public class Inseto : Animal
+    public override Animal ObterInformacoes() // Método
     {
-        public override Animal ObterInformacoes()
-        {
-            var inseto = new Inseto();
-            inseto.Nome = "Barata";
-            inseto.Tipo = "Inseto";
-            inseto.MediaPeso = "100g";
-            inseto.Tamanho = "9 centimetros";
+        var inseto = new Inseto(); // instância
+        inseto.Nome = "Barata";
+        inseto.Tipo = "Inseto";
+        inseto.MediaPeso = "100g";
+        inseto.Tamanho = "9 centimetros";
 
-            return inseto;
-        }
+        return inseto;
     }
 }

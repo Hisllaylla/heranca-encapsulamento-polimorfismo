@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jonathanperis/Dev/CSharp/projetinho/projetinho.csproj",
+      "projectUniqueName": "/home/jonathanperis/Dev/CSharp/heranca-encapsulamento-polimorfismo/projetinho.csproj",
       "projectName": "projetinho",
-      "projectPath": "/home/jonathanperis/Dev/CSharp/projetinho/projetinho.csproj",
+      "projectPath": "/home/jonathanperis/Dev/CSharp/heranca-encapsulamento-polimorfismo/projetinho.csproj",
       "packagesPath": "/home/jonathanperis/.nuget/packages/",
-      "outputPath": "/home/jonathanperis/Dev/CSharp/projetinho/obj/",
+      "outputPath": "/home/jonathanperis/Dev/CSharp/heranca-encapsulamento-polimorfismo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jonathanperis/.nuget/NuGet/NuGet.Config"
